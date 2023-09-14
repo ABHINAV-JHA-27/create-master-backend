@@ -1,0 +1,24 @@
+{
+    "name": "create-master-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "create-master-backend": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "create",
+        "master",
+        "backend",
+        "express-backend",
+        "node-backend"
+    ],
+    "author": "Abhinav Jha",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.2"
+    }
+}
